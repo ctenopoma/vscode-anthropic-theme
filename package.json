@@ -1,0 +1,22 @@
+{
+  "name": "vscode-anthropic-theme",
+  "displayName": "Anthropic High Contrast",
+  "description": "A high-contrast, Anthropic-inspired dark theme for VS Code.",
+  "version": "1.0.0",
+  "publisher": "anthropic-fan",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Anthropic High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anthropic-dark-color-theme.json"
+      }
+    ]
+  }
+}
