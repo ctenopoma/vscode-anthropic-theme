@@ -16,6 +16,11 @@
         "label": "Anthropic High Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/anthropic-dark-color-theme.json"
+      },
+      {
+        "label": "Anthropic High Contrast Light",
+        "uiTheme": "vs",
+        "path": "./themes/anthropic-light-color-theme.json"
       }
     ]
   }
